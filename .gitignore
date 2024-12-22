@@ -1,0 +1,5 @@
+# Python things
+__pycache__/
+
+# C things
+*.out
